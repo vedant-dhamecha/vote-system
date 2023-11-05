@@ -1,5 +1,3 @@
-Creating a README file for your online voting system project using Java Servlets and JSP is an essential part of your project documentation. A well-written README provides clear instructions and information for anyone using or contributing to your project. Below is an example of a README file that you can use as a template for your project:
-
 ```markdown
 # Online Voting System - Java Servlets and JSP
 
@@ -49,6 +47,16 @@ The Online Voting System is a web-based application developed using Java Servlet
 4. View real-time voting results and election status on the dashboard.
 
 5. If you are an administrator, access the admin panel to manage elections, candidates, and users.
+
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1380).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1381).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1382).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1383).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1384).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1385).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1386).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1387).png
+https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1388).png
 
 ## Contributing
 We welcome contributions to enhance and improve this project. If you would like to contribute, please follow these steps:
