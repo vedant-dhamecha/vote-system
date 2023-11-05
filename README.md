@@ -48,15 +48,17 @@ The Online Voting System is a web-based application developed using Java Servlet
 
 5. If you are an administrator, access the admin panel to manage elections, candidates, and users.
 
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1380).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1381).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1382).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1383).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1384).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1385).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1386).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1387).png
-https://github.com/vedant-dhamecha/vote-system/blob/main/ss/Screenshot%20(1388).png
+![Screenshot (1380)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/d89d2932-d005-491a-a96a-9b42c838d410)
+![Screenshot (1381)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/d8e67776-83d3-485d-a362-af1b2c7c4517)
+![Screenshot (1382)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/05c6861e-4361-4dae-a142-81ac82fc7b58)
+![Screenshot (1383)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/0550048c-1e7c-468c-98d8-293209a2b5d1)
+![Screenshot (1384)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/caee3818-dc5e-4fa3-a5ff-033c5cd3edff)
+![Screenshot (1385)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/137b172a-e2d8-496c-83e2-374cf2a2856e)
+![Screenshot (1386)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/1e709a76-bd15-4a33-a7a8-62d60e8ef24f)
+![Screenshot (1387)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/5d3e571e-9ab3-467a-8417-40fb1b855e6a)
+![Screenshot (1388)](https://github.com/vedant-dhamecha/vote-system/assets/105575987/d2e20bcb-957a-41be-8d46-c18ecb4e7f80)
+
+
 
 ## Contributing
 We welcome contributions to enhance and improve this project. If you would like to contribute, please follow these steps:
